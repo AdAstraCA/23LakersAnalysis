@@ -1,1 +1,3 @@
-While making this project, I was unaware of tidy data practices, such as having the first row have the variables. This will have to be adjusted at a later date.
+Planned changes for future versions:
+
+- Updating the data for the latest season and with tidy data practices.
